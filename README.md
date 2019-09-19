@@ -5,7 +5,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------
 
-### List of the files in the repository
+### List of files in the repository
 File name |	File description
 ----------|--------------------
 Vagrantfile |  the file describes the VM machine required for this project, and how to configure and provision it. 
